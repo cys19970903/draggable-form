@@ -1,6 +1,5 @@
 {
-  "name": "training-form-drag",
-  "private": true,
+  "name": "draggable-form",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
